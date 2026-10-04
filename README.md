@@ -1,0 +1,19 @@
+Hi everyone this is my first GitHub project my dream is to go to MIT for robotics so as a beginner design I made a gear mechanism in fusion 360. Although it may it look good right now, I made a couple of mistakes that I had to fix please tell me what I'm lacking. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
