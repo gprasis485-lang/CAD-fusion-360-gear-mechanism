@@ -1,4 +1,5 @@
-Hi everyone this is my first GitHub project my dream is to go to MIT for robotics so as a beginner design I made a gear mechanism in fusion 360. Although it may it look good right now, I made a couple of mistakes that I had to fix please tell me what I'm lacking. 
+Hi everyone this is my first GitHub project my dream is to go to MIT for robotics so as a beginner design I made a gear mechanism in fusion 360. Although it may it look good right now, I made a couple of mistakes that I had to fix please tell me what I'm lacking. <img width="539" height="396" alt="Screenshot 2026-10-04 172544" src="https://github.com/user-attachments/assets/2c09195c-bdec-42da-83d8-95629a75a45f" />
+
 
 
 
